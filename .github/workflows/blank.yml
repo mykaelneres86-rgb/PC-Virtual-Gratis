@@ -1,7 +1,4 @@
-# ==========================================
-# PC VIRTUAL GAMER - WINDOWS
-# Sunshine + Tailscale + Conta de jogador
-# ==========================================
+
 
 $ErrorActionPreference = "Stop"
 
